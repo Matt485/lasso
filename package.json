@@ -1,0 +1,19 @@
+{
+  "name": "lasso",
+  "version": "1.0.0",
+  "description": "Message Manager with Node",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matt485/lasso.git"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Matt485/lasso/issues"
+  },
+  "homepage": "https://github.com/Matt485/lasso#readme"
+}
